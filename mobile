@@ -1,0 +1,16 @@
+git init
+git config 
+git config --global user.name "pavan"
+git config --global user.email "pavankumardba29@gmail.com"
+touch filename
+git add filename 
+git commit -m "lable" filename
+git status
+ls
+git log
+git reset head filename
+git reset --soft cid
+git reset --mixed cid
+git reset --delete cid
+git show cid
+hello world...
