@@ -14,3 +14,4 @@ git reset --mixed cid
 git reset --delete cid
 git show cid
 hello world...
+just edited this file for testing  purpose
